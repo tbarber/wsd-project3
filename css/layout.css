@@ -206,7 +206,9 @@ th{text-align:left;
 .third_row{
  background-color:#4b4496;
 }  
-
+#name_first{
+float:right;
+}
 @media screen and (min-width:768px) and (max-width:959px){
 	#wrapper {
 	background-color:red;
