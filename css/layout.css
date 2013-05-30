@@ -199,6 +199,14 @@ th{text-align:left;
  background-color:#dcdce1;
 }
 
+.second_row{
+ background-color:#857ec0;
+}
+
+.third_row{
+ background-color:#4b4496;
+}
+
 @media screen and (min-width:768px) and (max-width:959px){
 	#wrapper {
 	background-color:red;
