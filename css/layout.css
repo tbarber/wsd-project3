@@ -209,6 +209,11 @@ th{text-align:left;
 #name_first{
 float:right;
 }
+#name_last{
+float:right;
+}
+
+
 @media screen and (min-width:768px) and (max-width:959px){
 	#wrapper {
 	background-color:red;
