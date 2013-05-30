@@ -178,13 +178,21 @@ max-width:100%; /*330/960*/
 
 table{
  border-collapse:collapse;
+ border:1px solid #fff;
 }
 
 td{ border:1px solid #fff;
+    padding:0.3em;
 }
 
 th{text-align:left;
+   background-color:#999;
+   color:#fff;
+   padding:0.3em;
+}
 
+.odd_row{
+ background-color:sliver;
 }
 
 @media screen and (min-width:768px) and (max-width:959px){
