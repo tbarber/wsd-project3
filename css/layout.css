@@ -183,6 +183,10 @@ table{
 td{ border:1px solid #fff;
 }
 
+th{text-align:left;
+
+}
+
 @media screen and (min-width:768px) and (max-width:959px){
 	#wrapper {
 	background-color:red;
