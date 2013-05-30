@@ -175,6 +175,11 @@ width:100%; /*330/960*/
 #banner img{
 max-width:100%; /*330/960*/
 }
+
+table{
+ border-collapse:collapse;
+}
+
 td{ border:1px solid #fff;
 }
 
